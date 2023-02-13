@@ -1,0 +1,7 @@
+{
+  "name": "numeroAleatorio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
